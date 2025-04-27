@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ha Trung\\source\\repos\\COMP1551_HANGUYENQUOCTRUNG_FINAL\\COMP1551_HANGUYENQUOCTRUNG_FINAL\\COMP1551_HANGUYENQUOCTRUNG_FINAL.csproj",
+      "projectUniqueName": "C:\\Users\\Ha Trung\\Source\\Repos\\COMP1551_HANGUYENQUOCTRUNG_GCS220148\\COMP1551_HANGUYENQUOCTRUNG_FINAL\\COMP1551_HANGUYENQUOCTRUNG_FINAL.csproj",
       "projectName": "COMP1551_HANGUYENQUOCTRUNG_FINAL",
-      "projectPath": "C:\\Users\\Ha Trung\\source\\repos\\COMP1551_HANGUYENQUOCTRUNG_FINAL\\COMP1551_HANGUYENQUOCTRUNG_FINAL\\COMP1551_HANGUYENQUOCTRUNG_FINAL.csproj",
+      "projectPath": "C:\\Users\\Ha Trung\\Source\\Repos\\COMP1551_HANGUYENQUOCTRUNG_GCS220148\\COMP1551_HANGUYENQUOCTRUNG_FINAL\\COMP1551_HANGUYENQUOCTRUNG_FINAL.csproj",
       "packagesPath": "C:\\Users\\Ha Trung\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ha Trung\\source\\repos\\COMP1551_HANGUYENQUOCTRUNG_FINAL\\COMP1551_HANGUYENQUOCTRUNG_FINAL\\obj\\",
+      "outputPath": "C:\\Users\\Ha Trung\\Source\\Repos\\COMP1551_HANGUYENQUOCTRUNG_GCS220148\\COMP1551_HANGUYENQUOCTRUNG_FINAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
